@@ -16,6 +16,7 @@ NeetCode-150/
 ├── Backtracking/
 ├── Binary_Search/
 ├── Heap/
+├── Linked_List/
 ├── Sliding_Window/
 ├── Stack/
 ├── Trees/

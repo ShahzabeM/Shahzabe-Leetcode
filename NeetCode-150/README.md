@@ -28,20 +28,6 @@ Inside each folder, you’ll find Java files named after the problem, e.g. `TwoS
 
 ---
 
-## 📅 Daily Grind Log
-
-| Date       | Problems Solved                                                                 |
-|------------|----------------------------------------------------------------------------------|
-| 2025-04-01 | Contains Duplicate, Valid Anagram, Two Sum                                       |
-| 2025-04-02 | Group Anagrams, Top K Frequent Elements                                          |
-| 2025-04-03 | Encode and Decode Strings, Product of Array Except Self                          |
-| 2025-04-04 | Valid Palindrome, Two Sum II: Input Array Is Sorted                              |
-| 2025-04-05 | 3Sum, Container With Most Water                                                  |
-| 2025-04-06 | Reverse Linked List, Merge Two Sorted Lists                                      |
-| 2025-04-08 | Linked List Cycle, Reorder Linked List                                           |
-
----
-
 ## 🛠 Tech Stack
 
 - Java (17+)
